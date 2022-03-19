@@ -1,0 +1,16 @@
+{
+    "UserData": {
+        "Name": "",
+        "Section": ""
+    },
+    "Messages": {
+        "Intro": "Welcome to the Automator! To get started enter the details  required below, and once done click on next. Follow the steps carefully and you'll have made your CS LabEx by the end!",
+        "Aim": "Enter Aim for The Exercise. Click on NEXT when done.",
+        "Search": "Here are 10 results from Google for the aim.",
+        "FileSelect": "Select the .py file to obtain program code.",
+        "OutputSelect": "Open the .py file in IDLE ONLY! Run the .py file and obtain the output in the SHELL. Once you've obtained your desired output, click CAPTURE. If more than 1 output is required, obtain the new output and click CAPTURE again. Application will freeze for a moment. DO NOT EXIT.",
+        "OCRWait": "Please wait as the document is being compiled. Please note that you will have to fill Sample Output. Once you click FINISH, the document will compile and finish. Thank you for using this tool."
+    },
+    "SelectedFile": "",
+    "ImagePaths": []
+}
