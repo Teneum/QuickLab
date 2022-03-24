@@ -1,6 +1,6 @@
 import requests
-API_KEY = "AIzaSyCx8EUjntyt5_ymkoi7wgXq8inOs2rCvZM"
-SEARCH_ENGINE_ID = "0a756a87ba7ae568d"
+API_KEY = "KEY"
+SEARCH_ENGINE_ID = "ID"
 
 
 page = 1
